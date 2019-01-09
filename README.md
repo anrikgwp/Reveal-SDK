@@ -16,7 +16,7 @@ inhibit_all_warnings!
 
 target :TargetName do
 
-pod 'Reveal-SDK',:git =>"https://github.com/anrikgwp/Reveal-SDK-4.git", :configurations => ['Debug']
+pod 'Reveal-SDK',:git =>"https://github.com/anrikgwp/Reveal-SDK.git", :configurations => ['Debug']
 
 end
 ```
